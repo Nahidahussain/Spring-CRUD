@@ -1,0 +1,5 @@
+com\test\Auth\repository\ProductRepository.class
+com\test\Auth\service\ProductService.class
+com\test\Auth\model\Product.class
+com\test\Auth\Controller\ProductController.class
+com\test\Auth\Application.class
